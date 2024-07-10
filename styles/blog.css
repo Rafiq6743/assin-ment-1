@@ -106,3 +106,12 @@ background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0)
                         letter-spacing: 0%;
                         text-align: left;}
                         .sec206{margin: 0px 32px;}
+                        .sec209{display: flex;
+                            flex-direction: column;
+                            justify-content: flex-start;
+                            align-items: center;
+                            padding: 0px;
+                            }
+                            .sec210{margin: 48px 0px;}
+                            .sec211{padding: 32px;
+                            margin: 48px 0px;}
