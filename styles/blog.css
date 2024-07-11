@@ -170,3 +170,38 @@ padding: 40px;
                                                 align-items: center;
                                                 padding: 0px;
                                                 margin: 48px 0px}
+                                                .sec400{
+                                                    background-image: url(../assets/handshake.jpg);
+                                                    
+                                                    background-repeat: no-repeat;
+                                                    background-position: center;
+padding: 64px 48px 64px 48px;
+height: 450px;
+width: 1900px;
+align-items: center;
+border-radius: 20px; }
+.sec401{color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: center;}
+    .sec403{color: rgb(255, 255, 255);
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0%;
+        text-align: center;
+    margin: 100px 0px;}
+            
+            .sec406{display: flex;
+                justify-content: center;
+                padding: 0px;
+                gap: 40px;
+                padding: 10px 10px 10px 10px;
+                height: 45px;
+                border-radius: 10px;
+                }
+                .sss{width: 400px;
+                border-radius: 8px;}
+                
