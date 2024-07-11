@@ -176,7 +176,7 @@ padding: 40px;
                                                     background-repeat: no-repeat;
                                                     background-position: center;
 padding: 64px 48px 64px 48px;
-height: 450px;
+height: 400px;
 width: 1900px;
 align-items: center;
 border-radius: 20px; }
@@ -204,4 +204,20 @@ border-radius: 20px; }
                 }
                 .sss{width: 400px;
                 border-radius: 8px;}
+    .sec407{width: 80px;
+    border-radius: 8px;}
+    .sec501{color: rgb(13, 19, 33);
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 23px;
+        letter-spacing: 0%;
+        text-align: center;
+    margin: 30px 30px;}
+        .sec500{width: 1600px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+        margin: 48px 0px;
+        padding: 32px 200px 32px 150px;}
                 
